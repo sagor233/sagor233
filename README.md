@@ -11,6 +11,8 @@
 *Full Stack Web Developer (MERN Stack)*  
 <br /> 
 
+![Sourav Biswas Banner](https://github.com/sagor233/sagor233/blob/61b44b2ae21a93c1daa22729b63b19eca8f0d2c1/gif.gif)
+
 <!--Start Intro-->               
 <p align="left">
 I am a Full Stack Web Developer from Bangladesh with a passion for building **dynamic, responsive, and user-friendly web applications**. Skilled in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and Tailwind CSS.
