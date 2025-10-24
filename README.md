@@ -161,30 +161,25 @@ I am a Full Stack Web Developer from Bangladesh with a passion for building **dy
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=50 height=50 alt="Instagram" style="margin:5px;" />
   </a>
 
-
-
   <!-- LinkedIn -->
-  <a href="https://www.facebook.com/sourav.biswasdrz/" target="_blank">
+  <a href="https://www.linkedin.com/in/sourav-biswas-dev" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width=50 height=50 alt="LinkedIn" style="margin:5px;" />
   </a>
 
-
-
   <!-- Facebook -->
-  <a href="(https://www.facebook.com/sourav.biswasdrz)" target="_blank">
+  <a href="https://www.facebook.com/sourav.biswasdrz" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width=50 height=50 alt="Facebook" style="margin:5px;" />
   </a>
 
 </div>
 
-
-
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/SouravBiswas" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" >
-</a>
+  <a href="https://www.buymeacoffee.com/SouravBiswas" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" >
+  </a>
 </div>
+
 
 <!--Footer--> 
 <p align="center">
