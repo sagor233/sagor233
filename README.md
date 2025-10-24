@@ -187,5 +187,5 @@ I am a Full Stack Web Developer from Bangladesh with a passion for building **dy
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+<center>![Sourav Biswas Banner](https://github.com/sagor233/sagor233/blob/eb41f492a5cb978536e2f40f637b272bff5095d4/Cat%20Love%20GIF%20by%20Mochimons.gif)</center>
 
-![Sourav Biswas Banner](https://github.com/sagor233/sagor233/blob/eb41f492a5cb978536e2f40f637b272bff5095d4/Cat%20Love%20GIF%20by%20Mochimons.gif)
