@@ -142,25 +142,35 @@ I am a Full Stack Web Developer from Bangladesh with a passion for building **dy
 ---
 
 <!--Contact Section--> 
+<!--Contact Section--> 
 <h2 align="center">🤝 Connect With Me 🤝 </h2>
 <div align="center">
+  
 <a href="mailto:souravnwu25@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="souravnwu25@gmail.com" style="margin-bottom: 5px;" />
+  <img src="./01a7570e-558d-4e5a-94d2-c0dcb7ae61d2.png" width=50 height=50 alt="Email" style="margin:5px;" />
+</a>
+
+<a href="https://x.com/sourav_biswas" target="_blank">
+  <img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin:5px;" />
+</a>
+
+<a href="https://www.instagram.com/sourav_biswas" target="_blank">
+  <img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin:5px;" />
 </a>
 
 <a href="https://github.com/sagor233" target="_blank">
-<img src="./github.png" width=50 height=50 alt="sagor233" style="margin-bottom: 5px;" />
+  <img src="./github.png" width=50 height=50 alt="GitHub" style="margin:5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/sourav-biswas-dev" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+  <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin:5px;" />
 </a>
 
 <a href="https://sagor233.github.io/Portfolio/" target="_blank">
-<img src="./portfolio.png" width=50 height=50 alt="portfolio" style="margin-bottom: 5px;" />
+  <img src="./dev_to.png" width=50 height=50 alt="Portfolio" style="margin:5px;" />
 </a>
 </div>
-<br/>
+
 
 <!--Buy me a coffee-->
 <div align="center">
