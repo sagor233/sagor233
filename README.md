@@ -6,7 +6,7 @@
 💡 Always eager to learn new tools and collaborate on exciting projects.  
 
 📫 **Reach me at:** [souravnwu25@gmail.com](mailto:souravnwu25@gmail.com)  
-🌎 **Portfolio:** [https://souravbiswas.dev](https://souravbiswas.dev) *(Coming Soon!)*  
+🌎 **Portfolio:** [https://souravbiswas.dev](https://sagor233.github.io/Portfolio/) 
 
 ---
 
