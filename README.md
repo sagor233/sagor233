@@ -161,20 +161,14 @@ I am a Full Stack Web Developer from Bangladesh with a passion for building **dy
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=50 height=50 alt="Instagram" style="margin:5px;" />
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/sagor233" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width=50 height=50 alt="GitHub" style="margin:5px;" />
-  </a>
+
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sourav-biswas-dev" target="_blank">
+  <a href="https://www.facebook.com/sourav.biswasdrz/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width=50 height=50 alt="LinkedIn" style="margin:5px;" />
   </a>
 
-  <!-- Portfolio -->
-  <a href="https://sagor233.github.io/Portfolio/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width=50 height=50 alt="Portfolio" style="margin:5px;" />
-  </a>
+
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/sourav.biswas" target="_blank">
