@@ -1,5 +1,5 @@
 <!--Banner-->
-![Sourav Biswas Banner](https://github.com/sagor233/sagor233/blob/c6bac0e9f69d1480b4ad123d6c80cfad4289b445/1751133602517.jpeg)
+![Sourav Biswas Banner](https://github.com/sagor233/sagor233/blob/cea25730bc04e06ecd728bfa51955dc6e03e22f3/Sourav%20Biswas.gif))
 
 <!--Night Owl image-->
 <div>
